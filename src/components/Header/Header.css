@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    display: flex;
+    gap:10px;
+}
+
+ul{
+    display:flex;
+    gap:10px;
+    margin-left:auto;
+}
+
+li{
+    color:rgb(50, 34, 34);
+    list-style-type: none;
+    background-color: aqua;
+    padding:5px;
+    cursor:pointer;
+    transition: 0.4s;
+}
+
+li:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(10, 42, 42);
+}

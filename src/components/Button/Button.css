@@ -1,0 +1,16 @@
+.button{
+    margin: 10;
+    border:0;
+    padding:10;
+    border-radius: 10; 
+}
+
+.button--secondary{
+    background-color:#877d63;
+    color: rgba(20, 20, 133, 0.559);
+}
+
+.button--primary{
+    background-color:yellow;
+    color: green;
+}
