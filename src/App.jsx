@@ -4,6 +4,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
 console.log("hello")
+const newvar = "sdasda";
   return (<>
    <Header/>
    <Footer/>
